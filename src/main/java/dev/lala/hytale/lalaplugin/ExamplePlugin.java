@@ -1,4 +1,4 @@
-package org.example.plugin;
+package dev.lala.hytale.lalaplugin;
 
 import com.hypixel.hytale.logger.HytaleLogger;
 import com.hypixel.hytale.server.core.plugin.JavaPlugin;
