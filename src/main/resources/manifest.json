@@ -1,0 +1,22 @@
+{
+    "Group": "dev.lala.hytale",
+    "Name": "LalaPlugin",
+    "Version": "0.1.0",
+    "Description": "Lala's first plugin for HyTale!",
+    "Authors": [
+        {
+            "Name": "Lala"
+        }
+    ],
+    "Website": "example.org",
+    "ServerVersion": "*",
+    "Dependencies": {
+        
+    },
+    "OptionalDependencies": {
+        
+    },
+    "DisabledByDefault": false,
+    "Main": "dev.lala.hytale.lalaplugin.LalaPlugin",
+    "IncludesAssetPack": true
+}
